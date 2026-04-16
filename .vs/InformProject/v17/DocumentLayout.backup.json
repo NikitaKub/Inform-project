@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\University\\C#\\Works\\\u0421# Inform Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|f:\\university\\c#\\works\\\u0441# inform project\\informproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|solutionrelative:informproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|F:\\University\\C#\\Works\\\u0421# Inform Project\\informproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|solutionrelative:informproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|f:\\university\\c#\\works\\\u0441# inform project\\informproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|solutionrelative:informproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|f:\\university\\c#\\works\\\u0441# inform project\\informproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB50C88-0053-40D2-A80E-06D5B6A10976}|InformProject\\InformProject.csproj|solutionrelative:informproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InformProject\\Form1.Designer.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Form1.Designer.cs",
+              "RelativeToolTip": "InformProject\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:06:37.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Form1.cs",
+              "RelativeDocumentMoniker": "InformProject\\Form1.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\InformProject\\Form1.cs [Design]",
+              "RelativeToolTip": "InformProject\\InformProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:06:37.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Form1.cs",
+              "RelativeDocumentMoniker": "InformProject\\Form1.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Form1.cs",
+              "RelativeToolTip": "InformProject\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:06:37.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Program.cs",
+              "RelativeDocumentMoniker": "InformProject\\Program.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\\u0421# Inform Project\\InformProject\\Program.cs",
+              "RelativeToolTip": "InformProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:06:37.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
