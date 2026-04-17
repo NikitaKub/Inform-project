@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InformProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b1ee4566dc7b3f9ddbdbf160f227e94b74836aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("InformProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InformProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

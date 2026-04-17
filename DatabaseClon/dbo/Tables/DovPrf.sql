@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DovPrf] (
+    [CdPf] FLOAT (53)    NOT NULL,
+    [NmPf] VARCHAR (100) NOT NULL,
+    CONSTRAINT [PK_DovPrf] PRIMARY KEY CLUSTERED ([CdPf] ASC)
+);
+

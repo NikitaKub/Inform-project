@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[GLPR] (
+    [CdPr] VARCHAR (50) NOT NULL,
+    [NmPr] VARCHAR (50) NOT NULL,
+    [CdTp] INT          NOT NULL,
+    CONSTRAINT [PK_GLPR] PRIMARY KEY CLUSTERED ([CdPr] ASC),
+    CONSTRAINT [FK_GLPR_TypePr] FOREIGN KEY ([CdTp]) REFERENCES [dbo].[TypePr] ([CdTp])
+);
+

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[TypePr] (
+    [CdTp] INT          IDENTITY (1, 1) NOT NULL,
+    [NmTp] VARCHAR (50) NOT NULL,
+    CONSTRAINT [PK_TypePr] PRIMARY KEY CLUSTERED ([CdTp] ASC)
+);
+

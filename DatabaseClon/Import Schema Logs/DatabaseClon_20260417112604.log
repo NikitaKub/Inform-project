@@ -1,0 +1,88 @@
+17.04.2026 14:26:04	This log contains information about the import schema operation into project 'DatabaseClon' on computer 'DESKTOP-KC6S2TH' by user 'nikit'.
+17.04.2026 14:26:04	Import of database schema has started.
+17.04.2026 14:26:09	Gathering database credentials
+17.04.2026 14:26:09	Gathering database options
+17.04.2026 14:26:09	Gathering generic database scoped configuration option
+17.04.2026 14:26:09	Gathering users
+17.04.2026 14:26:09	Gathering roles
+17.04.2026 14:26:09	Gathering application roles
+17.04.2026 14:26:09	Gathering role memberships
+17.04.2026 14:26:09	Gathering filegroups
+17.04.2026 14:26:09	Gathering full-text catalogs
+17.04.2026 14:26:09	Gathering assemblies
+17.04.2026 14:26:09	Gathering certificates
+17.04.2026 14:26:09	Gathering asymmetric keys
+17.04.2026 14:26:09	Gathering symmetric keys
+17.04.2026 14:26:09	Gathering encrypted symmetric keys
+17.04.2026 14:26:09	Gathering schemas
+17.04.2026 14:26:09	Gathering XML schema collections
+17.04.2026 14:26:09	Gathering user-defined data types
+17.04.2026 14:26:09	Gathering user-defined types
+17.04.2026 14:26:09	Gathering table types
+17.04.2026 14:26:09	Gathering unique keys for table types
+17.04.2026 14:26:09	Gathering primary keys for table types
+17.04.2026 14:26:09	Gathering indexes for table types
+17.04.2026 14:26:09	Gathering check constraints for table types
+17.04.2026 14:26:09	Gathering default constraints for table types
+17.04.2026 14:26:09	Gathering partition functions
+17.04.2026 14:26:09	Gathering partition schemes
+17.04.2026 14:26:09	Gathering functions
+17.04.2026 14:26:09	Gathering encrypted functions
+17.04.2026 14:26:09	Gathering aggregates
+17.04.2026 14:26:09	Gathering procedures
+17.04.2026 14:26:09	Gathering encrypted procedures
+17.04.2026 14:26:09	Gathering tables
+17.04.2026 14:26:10	Gathering primary keys
+17.04.2026 14:26:10	Gathering unique constraints
+17.04.2026 14:26:10	Gathering foreign keys
+17.04.2026 14:26:10	Gathering default constraints
+17.04.2026 14:26:10	Gathering check constraints
+17.04.2026 14:26:10	Gathering views
+17.04.2026 14:26:10	Gathering encrypted views
+17.04.2026 14:26:10	Gathering indexes
+17.04.2026 14:26:10	Gathering statistics
+17.04.2026 14:26:10	Gathering full-text index stoplists
+17.04.2026 14:26:10	Gathering search property lists
+17.04.2026 14:26:10	Gathering search properties
+17.04.2026 14:26:10	Gathering full-text indexes
+17.04.2026 14:26:10	Gathering column store indexes
+17.04.2026 14:26:10	Gathering spatial indexes
+17.04.2026 14:26:10	Gathering XML indexes
+17.04.2026 14:26:10	Gathering Selective XML indexes
+17.04.2026 14:26:10	Gathering encrypted triggers
+17.04.2026 14:26:10	Gathering triggers
+17.04.2026 14:26:10	Gathering encrypted and clr ddl triggers
+17.04.2026 14:26:10	Gathering ddl triggers
+17.04.2026 14:26:10	Creating edge constraints
+17.04.2026 14:26:10	Gathering synonyms
+17.04.2026 14:26:10	Gathering defaults
+17.04.2026 14:26:10	Gathering data constraint uddt bindings
+17.04.2026 14:26:10	Gathering rules
+17.04.2026 14:26:10	Gathering data constraint uddt bindings
+17.04.2026 14:26:10	Gathering message types
+17.04.2026 14:26:10	Gathering queues
+17.04.2026 14:26:10	Gathering contracts
+17.04.2026 14:26:10	Gathering services
+17.04.2026 14:26:10	Gathering event notifications
+17.04.2026 14:26:10	Gathering remote service bindings
+17.04.2026 14:26:10	Gathering broker priorities
+17.04.2026 14:26:10	Gathering signatures
+17.04.2026 14:26:10	Gathering compression options
+17.04.2026 14:26:10	Gathering sequence types
+17.04.2026 14:26:10	Gathering security policies
+17.04.2026 14:26:10	Gather column encryption keys
+17.04.2026 14:26:10	Gathering column master keys
+17.04.2026 14:26:10	Gathering external data sources
+17.04.2026 14:26:10	Gathering external file formats
+17.04.2026 14:26:10	Gathering external tables
+17.04.2026 14:26:10	Gathering XML index compression options
+17.04.2026 14:26:10	Gathering extended properties
+17.04.2026 14:26:10	Gathering assemblies
+17.04.2026 14:26:10	Gathering credentials
+17.04.2026 14:26:10	Gathering logins
+17.04.2026 14:26:10	Gathering server audits
+17.04.2026 14:26:10	Scanning project for duplicate elements
+17.04.2026 14:26:11	Finished duplicate element processing
+17.04.2026 14:26:11	Finished importing database.
+17.04.2026 14:26:11	A summary of the import was saved to the following location: F:\University\C#\Works\С# Inform Project\DatabaseClon\Import Schema Logs\DatabaseClon_20260417112604.log
+17.04.2026 14:26:11	Click Finish to continue...
